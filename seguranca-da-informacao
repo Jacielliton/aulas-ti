@@ -1,0 +1,57 @@
+Aula Segurança da Informação
+1. Conceitos básicos
+2. Políticas de segurança
+3. Classificação de informações
+4. Análise de vulnerabilidade
+5. Plano de continuidade de negócio
+6. Tratamento de Incidentes
+7. Normas ISO 27001 e ISO 27002
+8. Auditoria e conformidadeAula e Resumo: Gerência de Projetos
+
+## **Aula e Resumo sobre Segurança da Informação**
+
+## **1. Introdução**
+
+A segurança da informação é uma disciplina essencial para garantir a proteção, integridade, confidencialidade e disponibilidade das informações em uma organização. Nesta aula, abordaremos os conceitos básicos, políticas de segurança, classificação de informações, análise de vulnerabilidade, plano de continuidade de negócio, tratamento de incidentes, normas ISO 27001 e ISO 27002, e auditoria e conformidade.
+
+---
+
+## **2. Conteúdo**
+
+### **2.1. Conceitos Básicos**
+
+**Segurança da Informação** é o conjunto de práticas e medidas para proteger informações e dados de acessos não autorizados, garantindo sua confidencialidade, integridade e disponibilidade. Os principais elementos são: confidencialidade, integridade, disponibilidade, autenticidade e não repúdio.
+
+### **2.2. Políticas de Segurança**
+
+As **políticas de segurança** são diretrizes que estabelecem regras e práticas a serem seguidas na gestão da segurança da informação, delineando responsabilidades e comportamentos esperados dos colaboradores.
+
+### **2.3. Classificação de Informações**
+
+A **classificação de informações** envolve atribuir níveis de importância e sensibilidade a dados, permitindo um controle adequado de acesso, uso e proteção.
+
+### **2.4. Análise de Vulnerabilidade**
+
+A **análise de vulnerabilidade** identifica e avalia possíveis pontos fracos nos sistemas e processos de uma organização, possibilitando a tomada de medidas para mitigar riscos.
+
+### **2.5. Plano de Continuidade de Negócio**
+
+O **plano de continuidade de negócio** estabelece procedimentos para manter operações críticas durante e após situações de emergência ou desastres, minimizando impactos e garantindo a recuperação.
+
+### **2.6. Tratamento de Incidentes**
+
+O **tratamento de incidentes** envolve a resposta organizada a eventos de segurança, visando mitigar danos, identificar causas e implementar melhorias para evitar recorrências.
+
+### **2.7. Normas ISO 27001 e ISO 27002**
+
+As normas **ISO 27001** e **ISO 27002** são padrões internacionais para sistemas de gestão da segurança da informação. A ISO 27001 estabelece requisitos para implementação e certificação de um sistema de gestão, enquanto a ISO 27002 oferece diretrizes e boas práticas para a segurança da informação.
+
+### **2.8. Auditoria e Conformidade**
+
+A **auditoria e conformidade** envolvem a revisão sistemática dos controles e práticas de segurança para garantir a conformidade com políticas, normas e regulamentações, assegurando a eficácia dos processos de segurança da informação.
+
+---
+
+## **Conclusão**
+
+A segurança da informação é fundamental para as organizações, pois protege ativos valiosos, como dados, sistemas e reputação. Conhecer e aplicar os conceitos apresentados nesta aula é crucial para estabelecer uma estratégia eficaz de segurança da informação e garantir a continuidade e o sucesso dos negócios. A adoção de padrões internacionais, como as normas ISO 27001 e ISO 27002, promove a excelência na gestão da segurança da informação e auxilia na demonstração de conformidade e confiança aos stakeholders.
