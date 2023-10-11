@@ -1,0 +1,37 @@
+# Governança e Gestão de TI
+
+Edital:
+
+Governança e Gestão de TI
+1. Fundamentos do ITIL(Biblioteca de Infraestrutura de Tecnologia da Informação)^ (v3): aspectos gerais, estrutura, conceitos, finalidade, suporte a serviços, entrega de serviços
+2. Fundamentos de COBIT(Objetivos de Controle para Tecnologia da Informação e Tecnologias Relacionadas) (versão 5): aspectos gerais, estrutura, conceitos, finalidade, modelos de maturidade, objetivos de controle, objetivos de negócios e objetivos de TI, domínios e processos
+3. Boas Práticas Governança de TIC(Tecnologia da Informação e Comunicação) nas Estatais: Resolução n° 11/CGPAR"Comissão Interministerial de Governança Corporativa e de Administração de Participações Societárias da União”/2016
+
+**Aula: Governança e Gestão de TI - ITIL, COBIT e Boas Práticas Governança de TIC nas Estatais**
+
+Nesta aula, vamos explorar detalhadamente os fundamentos do ITIL v3, COBIT (versão 5) e as Boas Práticas de Governança de TIC nas Estatais conforme a Resolução n° 11/CGPAR/2016.
+
+**1. Fundamentos do ITIL (v3)**:
+
+- **Aspectos Gerais**: O ITIL (Biblioteca de Infraestrutura de Tecnologia da Informação) é um conjunto de práticas para gerenciamento de serviços de TI, enfatizando a entrega de valor ao cliente.
+- **Estrutura**: ITIL v3 é composto por cinco volumes: Estratégia de Serviço, Desenho de Serviço, Transição de Serviço, Operação de Serviço e Melhoria Contínua de Serviço.
+- **Conceitos Importantes**: Alinhamento com as necessidades do negócio, foco no cliente, padronização de processos e melhoria contínua dos serviços.
+- **Finalidade**: Aperfeiçoar a qualidade dos serviços de TI, otimizando os recursos e promovendo a eficiência operacional.
+- **Suporte a Serviços**: Diretrizes para a entrega eficaz de suporte aos serviços de TI.
+- **Entrega de Serviços**: Aborda a entrega eficaz dos serviços de TI aos usuários finais, garantindo a satisfação e a eficácia operacional.
+
+**2. Fundamentos de COBIT (versão 5)**:
+
+- **Aspectos Gerais**: COBIT (Control Objectives for Information and Related Technologies) é um framework que oferece um modelo de governança de TI e gestão alinhado com os objetivos do negócio.
+- **Estrutura**: Organizado em cinco princípios e sete categorias de habilitadores que cobrem 37 processos de governança.
+- **Conceitos Importantes**: Envolvem metas de negócios, riscos e controle sobre os processos de TI.
+- **Finalidade**: Proporcionar governança eficaz de TI, garantindo a entrega dos objetivos de negócios e a mitigação dos riscos.
+- **Modelos de Maturidade**: Avaliam a capacidade da organização em gerenciar seus processos de TI de forma eficaz, indo de 0 (inexistente) a 5 (otimizado).
+- **Objetivos de Controle**: Metas específicas para garantir segurança, confiabilidade e eficiência dos processos de TI.
+
+**3. Boas Práticas de Governança de TIC nas Estatais (Resolução n° 11/CGPAR/2016)**:
+
+- **Objetivo**: Estabelecer princípios e diretrizes para a governança de TIC em organizações estatais, visando o uso eficaz e eficiente dos recursos de TI.
+- **Padrões de Governança e Gestão**: Definidos para garantir transparência, responsabilidade, sustentabilidade e segurança da informação no âmbito da governança de TIC.
+
+Nesta aula, aprofundamos nosso entendimento sobre os pilares fundamentais de Governança e Gestão de TI, focando em ITIL v3, COBIT (versão 5) e as Boas Práticas de Governança de TIC nas Estatais, fornecendo uma visão detalhada de suas estruturas, conceitos e finalidades. Esses conhecimentos são essenciais para o sucesso na gestão eficaz da tecnologia da informação nas organizações.
